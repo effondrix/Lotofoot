@@ -10,7 +10,7 @@
   
 2. Remplir manuellement le fichier texte "resultats_XXXX.txt" avec les résultats et la date pour chaque journée, exemple:
   >J1
-  Lille OSC / Stade Rennais = N, Aug 22 2020 21:00:00
+  Lille OSC / Stade Rennais = N, Aug 22 2020 21:00:00\n
   AS Monaco / Stade de Reims = N, Aug 23 2020 13:00:00
   OGC Nice / RC Lens = 1, Aug 23 2020 17:00:00
   Dijon FCO / Angers SCO = 2, Aug 22 2020 17:00:00
