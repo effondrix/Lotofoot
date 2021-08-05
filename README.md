@@ -7,3 +7,6 @@
 3. Executer "lotofoot.py" pour le parsing des résultats depuis le site. Les données sont enregistrées dans le fichier "lotofoot_XXXX.csv"
 
 4. Executer "lotofoot_scores.py"
+
+
+Le code est encore en mode blédi blédard mais ça marche assez bien comme ça :sueur:
