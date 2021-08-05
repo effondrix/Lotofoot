@@ -1,0 +1,11 @@
+J1
+AS Monaco / FC Nantes = 1, Aug 06 2021 21:00:00
+Olympique Lyonnais / Stade Brestois = 1, Aug 07 2021 17:00:00
+ESTAC Troyes / Paris Saint-Germain = 1, Aug 07 2021 21:00:00
+Stade Rennais / RC Lens = 1, Aug 08 2021 13:00:00
+Girondins de Bordeaux / Clermont Foot = 1, Aug 08 2021 15:00:00
+OGC Nice / Stade de Reims = 1, Aug 08 2021 15:00:00
+AS Saint-Etienne / FC Lorient = 1, Aug 08 2021 15:00:00
+RC Strasbourg / Angers SCO = 1, Aug 08 2021 15:00:00
+FC Metz / Lille OSC = 1, Aug 08 2021 17:00:00
+Montpellier HSC / Olympique de Marseille = 1, Aug 08 2021 20:45:00
